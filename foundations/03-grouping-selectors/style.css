@@ -1,0 +1,16 @@
+.class_one{
+background-color: black;
+color: white;
+font-weight: bold;
+}
+
+.class_two{
+    background-color: yellow;
+
+}
+
+.class_one,.class_two{
+    font-size: 28px;
+    font-family: 'Helvetica', "Times New Roman",  'sans-serif';
+
+}
